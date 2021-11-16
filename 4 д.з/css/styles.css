@@ -1,0 +1,53 @@
+div{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+.img{
+    float: right;
+    height: 100%;
+    width: 50%;
+}
+
+#page1{
+    background: linear-gradient(to right, rgba(255,211,212,1) 0%,rgba(214,255,242,1) 50%,rgba(206,222,255,1) 51%,rgba(215,255,211,1) 100%);;
+    position: absolute;
+    float: left;
+    width: 50%;
+    height: 50%;
+}
+#page2{
+    background: linear-gradient(to left, rgba(255,211,212,1) 0%,rgba(214,255,242,1) 50%,rgba(206,222,255,1) 51%,rgba(215,255,211,1) 100%);;
+    position: absolute;
+    margin-left: 50%;
+    width: 50%;
+    height: 50%;
+}
+#page3{
+    background: linear-gradient(to right, rgba(255,211,212,1) 0%,rgba(214,255,242,1) 50%,rgba(206,222,255,1) 51%,rgba(215,255,211,1) 100%);;
+    position: absolute;
+    top: 50%;
+    width: 50%;
+    height: 50%;
+}
+#page4{
+    background: linear-gradient(to left, rgba(255,211,212,1) 0%,rgba(214,255,242,1) 50%,rgba(206,222,255,1) 51%,rgba(215,255,211,1) 100%);;
+    position: absolute;
+    margin-left: 50%;
+    top: 50%;
+    width: 50%;
+    height: 50%;
+}
+#page5{
+    background: linear-gradient(to right, rgba(255,211,212,1) 0%,rgba(214,255,242,1) 50%,rgba(206,222,255,1) 51%,rgba(215,255,211,1) 100%);;
+    position: absolute;
+    top: 100%;
+    width: 50%;
+    height: 50%;
+}
+#advert{
+    background: linear-gradient(to left, rgba(255,211,212,1) 0%,rgba(214,255,242,1) 50%,rgba(206,222,255,1) 51%,rgba(215,255,211,1) 100%);;
+    position: absolute;
+    margin-left: 50%;
+    top: 100%;
+    width: 50%;
+    height: 50%;
+}
